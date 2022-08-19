@@ -1,0 +1,17 @@
+$A	&	(Ampersand)
+$B	|	Pipe
+$C	(
+$F	)
+$D	Current date
+$E	Escape date  (ASCII code 27)
+$G	>
+$H	Backspace
+$L	<
+$N	Current Drive
+$P	Current drive and path
+$Q	=  
+$S		space
+$T	Current time
+$V	Windows version number
+$_	Carriage return and linefeed
+$$	$ (dollar sign)
